@@ -1,9 +1,15 @@
 # AngSnapSvg
 
-Установка snapsvg npm install --save snapsvg [npm-snapsvg](https://www.npmjs.com/package/snapsvg)
 
+##Установка зависимостей
 
-Установка @types/snapsvg npm install --save @types/snapsvg [npm-@types/snapsvg](https://www.npmjs.com/package/@types/snapsvg)
+snapsvg: npm install --save snapsvg 
+
+info => [npm-snapsvg](https://www.npmjs.com/package/snapsvg)
+
+@types/snapsvg: npm install --save @types/snapsvg 
+
+info => [npm-@types/snapsvg](https://www.npmjs.com/package/@types/snapsvg)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
