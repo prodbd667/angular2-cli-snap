@@ -1,6 +1,8 @@
 # AngSnapSvg
 
 Установка snapsvg npm install --save snapsvg [npm-snapsvg](https://www.npmjs.com/package/snapsvg)
+
+
 Установка @types/snapsvg npm install --save @types/snapsvg [npm-@types/snapsvg](https://www.npmjs.com/package/@types/snapsvg)
 
 
