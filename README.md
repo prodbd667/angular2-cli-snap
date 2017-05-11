@@ -1,7 +1,7 @@
 # AngSnapSvg
 
 
-##Установка зависимостей
+## Установка зависимостей
 
 snapsvg: npm install --save snapsvg 
 
