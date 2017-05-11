@@ -1,6 +1,6 @@
 # AngSnapSvg
 
-Использование библиотеки snap.svg в Angular2-cli
+Использование библиотеки [snap.svg](http://snapsvg.io/) в Angular2-cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
