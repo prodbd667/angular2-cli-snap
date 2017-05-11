@@ -1,5 +1,9 @@
 # AngSnapSvg
 
+Использование библиотеки snap.svg в Angular2-cli
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+
 
 ## Установка зависимостей
 
@@ -12,7 +16,17 @@ info => [npm-snapsvg](https://www.npmjs.com/package/snapsvg)
 info => [npm-@types/snapsvg](https://www.npmjs.com/package/@types/snapsvg)
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+## Импортирование 
+
+ "scripts": ["../node_modules/snapsvg/dist/snap.svg.js"]
+ 
+ 
+ ## Объявление в компоненте
+  
+ declare var Snap: any;
+
+
+
 
 ## Development server
 
